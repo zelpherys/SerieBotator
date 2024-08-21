@@ -1,0 +1,12 @@
+Première valeur (nombre de clics) => 
+
+clic droit par interval de 1 secondes entre chaque clic exemp : 5 clic droit avec une seconde d'interval 
+
+
+deuxième valeur (intervalle entre les séries de clics) => 
+
+le temps entre chaque interval de coup exemp : 6  secondes avant de relancer une série de 5 clic gauche
+
+activé/désacivé le scrip : Numpad 9 pour l'activé/désactivé
+
+si bug fermer le script 
